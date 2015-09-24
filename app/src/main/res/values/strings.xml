@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DietPlan</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pick_replace">Pick a replacement:</string>
+</resources>
